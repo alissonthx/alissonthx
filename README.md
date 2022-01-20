@@ -6,7 +6,7 @@
 - 🌱 Currently learning Javascript
 - 👯 Looking to collaborate on frontend development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
