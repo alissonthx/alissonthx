@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I+am+Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on PHP and Laravel the PHP framework
