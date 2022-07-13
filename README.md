@@ -5,7 +5,7 @@
 - 🌱 Currently learning Javascript
 - 👯 Looking to collaborate on frontend development
 
-<h1>Stacks</h1>
+<h1>Tech Stacks</h1>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
