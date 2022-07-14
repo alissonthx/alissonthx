@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on PHP and Laravel the PHP framework
 - 🌱 Currently learning React JS
 - 👯 Looking to collaborate on frontend development
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Tech Stacks</h1>
 
@@ -38,8 +40,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3>🔧 Tools Preferences</h3>
-  
+<details>
+<summary><h3>🔧 Tools Preferences</h3></summary>
+<p> 
+
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Opera GX](https://img.shields.io/badge/Opera%20GX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
@@ -47,7 +51,8 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p> 
+</details>
 
 <a href="https://www.linkedin.com/in/alisson-marques-miquelace-63875b106/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
