@@ -7,7 +7,7 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/alisson-marques-miquelace-63875b106/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/%C3%A1lisson-marques-miquelace-63875b106">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <h1>Tech Stacks</h1>
 
