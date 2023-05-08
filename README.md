@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Unity Game engine, C# and React Js
-- 🌱 Currently learning more about React Js and C#
+- 🔭 I’m currently working on Unity Game engine, C# and Construct 3.
+- 🌱 Currently learning more about Unity and C#
 - 👯 Looking to collaborate on game development
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
