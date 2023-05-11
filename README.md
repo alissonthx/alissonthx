@@ -2,10 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Unity Game engine, C# and Construct 3.
+- 👩🏻‍💻 Make some content in twitch, coding games in unity.
 - 🌱 Currently learning more about Unity and C#
 - 👯 Looking to collaborate on game development
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonthx&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🎮 You can chek my games in my Itch, follow me to see more content soon...
+
+<a href="https://nymphdev.itch.io">![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)</a>
+
+<h1>Wanna talk with me?</h1>
 
 <a href="https://www.linkedin.com/in/%C3%A1lisson-marques-miquelace-63875b106">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
