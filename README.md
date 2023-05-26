@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Unity Game engine, C# and Construct 3.
-- 👩🏻‍💻 Make some content in twitch, coding games in unity.
+- 🔭 I’m currently working on Unity Game engine, C# and Construct 3
+- 👩🏻‍💻 Make some content in twitch, coding games in unity
 - 🌱 Currently learning more about Unity and C#
 - 👯 Looking to collaborate on game development
 - 🎮 You can chek my games in my Itch, follow me to see more content soon...
