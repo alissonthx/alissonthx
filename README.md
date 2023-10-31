@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Web+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working with Unity Game engine, C# and Construct 3.
 - 👩🏻‍💻 I Create content on <a href="https://www.twitch.tv/nymphdev">Twitch</a>, coding games in unity.
