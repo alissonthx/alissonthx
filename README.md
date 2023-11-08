@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working with Unity Game engine, C# and Construct 3.
-- 👩🏻‍💻 I Create content on <a href="https://www.twitch.tv/nymphdev">Twitch</a>, coding games in unity.
-- 🌱 Currently, I'm expanding my knowledge of Unity and C#, creating Overcooked game clone.
-- 🎮 You can check out my games on my Portifolio page. Follow me to stay updated on future content releases!
+- 🌱 Currently, I'm expanding my knowledge of Unity3D and C#, creating Overcooked game clone.
+
+<h3> 👩🏻‍💻 I Create content on Twitch making games with unity.</h3>
+
+<a href="https://www.twitch.tv/nymphdev">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
+<h3>🎮 You can check out my games on my Portifolio page.</h3>
 
 <a href="https://alissonthx-portfolio.vercel.app">![Portfolio](https://img.shields.io/badge/PORTFOLIO-%234f0599.svg?style=for-the-badge&logo=portfolio&logoColor=white)</a>
 
