@@ -6,7 +6,7 @@
 - 🌱 Currently, I'm expanding my knowledge of Unity and C#, creating Overcooked game clone.
 - 🎮 You can check out my games on my Portifolio page. Follow me to stay updated on future content releases!
 
-<a href="https://alissonthx-portfolio.vercel.app">![Portifolio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)</a>
+<a href="https://alissonthx-portfolio.vercel.app">![Portifolio](https://img.shields.io/badge/Portifolio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)</a>
 
 <h1>Wanna talk with me?</h1>
 
