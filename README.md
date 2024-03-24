@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;)](https://git.io/typing-svg)
 
-- I’m currently working with Unity Game engine, C# and Construct 3.
-- Currently, I'm expanding my knowledge of Unity3D and C#, creating Overcooked game clone.
+- Most part of the time working with Unity Game engine and C#.
+- Currently, I'm working on my fist commercial game The Hunted.
 
 - I Create content on Twitch making games with unity.    
 <a href="https://www.twitch.tv/tempestgamedev">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
