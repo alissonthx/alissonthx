@@ -1,10 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;)](https://git.io/typing-svg)
 
-- Most part of the time working with Unity Game engine and C#.
-- Currently, I'm working on my fist commercial game The Hunted.
+- Highly proficiency on C# and Javascript.
+- Currently, Studying C# .NET.
 
-- I Create content on Twitch making games with unity.    
+- I also Create content on Twitch making games with unity.    
 <a href="https://www.twitch.tv/tempestgamedev">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
 # You can check out my games on my Portifolio page.
 <a href="https://alissonthx-portfolio.vercel.app">![Portfolio](https://img.shields.io/badge/PORTFOLIO-%234f0599.svg?style=for-the-badge&logo=&logoColor=white)</a>
