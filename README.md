@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;Web+developer;)](https://git.io/typing-svg)
 
 - Highly proficiency on C# and Javascript.
-- Currently, Studying C# .NET.
+- Currently, Studying .NET Core.
 
 - I also Create content on Twitch making games with unity.    
 <a href="https://www.twitch.tv/tempestgamedev">![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
