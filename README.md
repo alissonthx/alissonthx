@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Game+developer;Web+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Álisson+Marques+Miquelace;Software+developer;Game+developer;)](https://git.io/typing-svg)
 
 - 🎓 Highly proficiency on C# and Javascript.
 - 🎓 Bachelor's degree in Systems Analysis and Development.
