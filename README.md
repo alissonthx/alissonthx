@@ -6,7 +6,7 @@
 - 💼 Currently, Studying .NET Core.
 - 🌱 Looking to collab on open source projects.
 
-<hr>
+##
 
 ## Wanna talk with me? 
 
