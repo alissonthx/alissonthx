@@ -3,7 +3,7 @@
 
 - 🎓 Highly proficiency on C# and Javascript.
 - 🎓 Bachelor's degree in Systems Analysis and Development.
-- 💼 Currently, Studying .NET Core, Docker.
+- 💼 Currently, Studying Java & Spring Boot, Docker.
 - 🌱 Looking to collab on open source projects.
 
 ##
